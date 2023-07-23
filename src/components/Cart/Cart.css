@@ -1,0 +1,13 @@
+.cart{
+    width: 30rem;
+    margin-left: 25rem;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.carritoVacio{
+    color: #003847;
+    width: 40rem;
+    text-align: center;
+    margin-left: 5rem;
+}

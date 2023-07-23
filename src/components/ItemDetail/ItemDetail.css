@@ -1,0 +1,25 @@
+.detalle{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ width: 28rem;
+ margin-top: 2rem;
+ margin-left: 26rem;
+}
+
+h3{
+    height: 3rem;
+    background-color: #dab9eb;;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.botonCompra{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 1fr;
+    width: 20rem;
+    text-align: center;
+    gap: 10rem;
+    margin-bottom: 5rem;
+}

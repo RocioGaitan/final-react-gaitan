@@ -1,0 +1,15 @@
+.contenedorProductos{
+   margin-top: 8rem;
+   padding: 1.5rem ; 
+    display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   gap: 6rem;
+  
+
+}
+
+
+img{
+    width: 25rem; 
+    
+}

@@ -1,0 +1,23 @@
+.contadores{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 5rem;
+    height: 7rem;
+    gap: 1rem;
+    margin-left: 3rem;
+}
+
+.numero{
+    display: flex;
+    justify-content: center;
+    height: 2rem;
+    margin-top: 2rem;
+    
+}
+
+.botonAgregar{
+
+    height: 8rem;
+    background-color: #003847;
+}

@@ -1,0 +1,10 @@
+.ladoDerecho{
+    display: flex;
+    background-color: #c9c3ba;
+    width: 3rem;
+
+}
+
+.carrito{
+    width: 3rem; 
+}
