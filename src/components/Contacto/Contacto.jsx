@@ -3,6 +3,7 @@ import { db } from "../../service/config"
 import { collection, addDoc } from 'firebase/firestore'
 import './Contacto.css'
 
+
 const Contacto = () => {
   const [nombre, setNombre] = useState("");
   const [apellido, setApellido] = useState("");
